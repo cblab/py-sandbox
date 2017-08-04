@@ -26,7 +26,7 @@ print('tensorflow: %s' % tensorflow.__version__)
 import keras
 print('keras: %s' % keras.__version__)
 
-'''
+''' should output:
 /usr/bin/python3.5 /home/cblab/PycharmProjects/py-sandbox/ml-library-versions/ml-library-versions.py
 scipy: 0.19.1
 numpy: 1.13.1
